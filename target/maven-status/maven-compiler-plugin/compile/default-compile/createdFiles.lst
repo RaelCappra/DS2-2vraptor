@@ -1,0 +1,9 @@
+model\Dependente.class
+persistencia\Dao.class
+controller\DependenteController.class
+persistencia\ConexaoPostgreSQL.class
+model\Pessoa.class
+controller\IndexController.class
+persistencia\DependenteDao.class
+persistencia\PessoaDao.class
+persistencia\Conexao.class
